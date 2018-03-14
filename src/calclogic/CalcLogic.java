@@ -1,6 +1,6 @@
 package calclogic;
 
-public class Calculator {
+public class CalcLogic {
 
 	public double add(double first, double second) {
 		

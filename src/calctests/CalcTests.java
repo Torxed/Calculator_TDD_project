@@ -5,15 +5,15 @@ import static org.junit.Assert.assertEquals;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-import calclogic.Calculator;
+import calclogic.CalcLogic;
 
 class CalcTests {
 	
-	public static Calculator calc;
+	public static CalcLogic calc;
 	
 	@BeforeAll
 	static void Init() {
-		calc = new Calculator();
+		calc = new CalcLogic();
 	}
 
 	@Test
