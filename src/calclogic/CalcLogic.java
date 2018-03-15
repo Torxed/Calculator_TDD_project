@@ -1,5 +1,7 @@
 package calclogic;
 
+import main.Calculator;
+
 public class CalcLogic {
 
 	public double add(double first, double second) {
@@ -13,6 +15,9 @@ public class CalcLogic {
 	}
 
 	public double div(double first, double second) {
+		
+		if(second==0)
+			throw new ArithmeticException();
 		
 		return first/second;
 	}
