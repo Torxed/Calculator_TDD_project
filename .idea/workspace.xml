@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fbe185d-2504-49ed-8ac6-9394c3223999" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.project" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/calclogic/CalcLogic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/calctests/CalcTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/bin/main/Calculator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/calclogic/CalcLogic.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/calctests/CalcTests.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/Calculator.java" afterPath="$PROJECT_DIR$/src/main/Calculator.java" />
-    </list>
+    <list default="true" id="3fbe185d-2504-49ed-8ac6-9394c3223999" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -54,8 +44,8 @@
       <file leaf-file-name="CalcTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/calctests/CalcTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#263#264#0" expanded="true" />
@@ -744,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calctests/CalcTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#263#264#0" expanded="true" />
